@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="219.55px" width="581.05px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 3.65, -235.2)">
+    <path d="M-3.65 366.45 L-2.25 403.75 -1.5 432.6 Q268.7 432.65 576.2 435.75 L576.35 424.15 576.7 424.15 576.35 422.1 576.45 410.1 576.55 397.4 576.55 396.9 576.55 394.7 577.05 297.5 Q577.25 266.35 577.4 235.2 522.15 339.1 -3.65 366.45" fill="#335cff" fill-rule="evenodd" stroke="none">
+      <animate attributeName="fill" dur="2s" repeatCount="indefinite" values="#335cff;#335cff"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="1.0;1.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-3.65 366.45 L-2.25 403.75 -1.5 432.6 Q268.7 432.65 576.2 435.75 L576.35 424.15 576.7 424.15 576.35 422.1 576.45 410.1 576.55 397.4 576.55 396.9 576.55 394.7 577.05 297.5 Q577.25 266.35 577.4 235.2 522.15 339.1 -3.65 366.45;M-2.05 419.15 L-1.5 451.6 24.15 451.6 Q272.75 451.8 552.4 454.55 L563.0 454.65 563.3 454.65 565.1 454.65 576.2 454.75 576.35 443.15 576.7 443.15 576.35 441.1 576.85 352.3 Q573.1 377.25 546.05 394.75 442.5 461.7 -2.05 419.15"/>
+    </path>
+    <path d="M-3.65 366.45 Q522.15 339.1 577.4 235.2 577.25 266.35 577.05 297.5 L576.55 394.7 576.55 396.9 576.55 397.4 576.45 410.1 576.35 422.1 576.7 424.15 576.35 424.15 576.2 435.75 Q268.7 432.65 -1.5 432.6 L-2.25 403.75 -3.65 366.45" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.0" stroke-width="1.0">
+      <animate attributeName="stroke" dur="2s" repeatCount="indefinite" values="#000000;#000001"/>
+      <animate attributeName="stroke-width" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="fill-opacity" dur="2s" repeatCount="indefinite" values="0.0;0.0"/>
+      <animate attributeName="d" dur="2s" repeatCount="indefinite" values="M-3.65 366.45 Q522.15 339.1 577.4 235.2 577.25 266.35 577.05 297.5 L576.55 394.7 576.55 396.9 576.55 397.4 576.45 410.1 576.35 422.1 576.7 424.15 576.35 424.15 576.2 435.75 Q268.7 432.65 -1.5 432.6 L-2.25 403.75 -3.65 366.45;M-2.05 419.15 Q442.5 461.7 546.05 394.75 573.1 377.25 576.85 352.3 L576.35 441.1 576.7 443.15 576.35 443.15 576.2 454.75 565.1 454.65 563.3 454.65 563.0 454.65 552.4 454.55 Q272.75 451.8 24.15 451.6 L-1.5 451.6 -2.05 419.15"/>
+    </path>
+  </g>
+</svg>
