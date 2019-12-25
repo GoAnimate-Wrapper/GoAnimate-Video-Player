@@ -1,9 +1,9 @@
 package anifire.player.assetTransitions.interfaces
 {
-   public interface IDestination
-   {
-       
-      
-      function get destination() : uint;
-   }
+	public interface IDestination
+	{
+		 
+		
+		function get destination() : uint;
+	}
 }
